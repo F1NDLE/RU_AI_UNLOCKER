@@ -96,4 +96,4 @@ IP-логгеры :
 · grabify.org
 
 # Credits
-(нотмалваре)[https://t.me/immalware] - разработчик хоста
+[нотмалваре](https://t.me/immalware) - разработчик хоста
