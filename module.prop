@@ -1,7 +1,7 @@
 id=unlocker_zrpb
 name=Разблокировщик сервисов в РФ
-version=v1.1
-versionCode=11
+version=v1.2
+versionCode=12
 author=финдл
 banner=https://raw.githubusercontent.com/F1NDLE/RU_AI_UNLOCKER/refs/heads/main/banner.png
 description=Разблокировка зарубежных сервисов заблокированных под санкциями 
